@@ -8,6 +8,7 @@
 		(title "Schemat_Przetwornica_space_rekrutacja")
 		(date "2026-10-26")
 		(rev "v2137")
+		(company "Trytka Sp. z o.o.")
 	)
 	(lib_symbols
 		(symbol "AP63300WU-7 -mod:AP63300WU-7-mod"

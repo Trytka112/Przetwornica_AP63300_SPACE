@@ -11,7 +11,7 @@
 		(title "PCB_Przetwornica_Space_rekrutacja")
 		(date "2026-10-26")
 		(rev "v2137")
-		(company "Fuszerka Sp.z.o.o.")
+		(company "Trytka Sp.z.o.o.")
 	)
 	(layers
 		(0 "F.Cu" signal)
